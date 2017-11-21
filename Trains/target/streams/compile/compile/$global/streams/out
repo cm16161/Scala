@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/chetan/Documents/Scala/Trains/src/main/scala/Trains.scala:5:7: illegal start of simple pattern[0m
+[0m[[0m[31merror[0m] [0m[0m  for(var x <- 1 to 5 )[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chetan/Documents/Scala/Trains/src/main/scala/Trains.scala:9:1: '<-' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
